@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://www.chrisvanloon.nl/](https://www.chrisvanloon.nl/)
 
-- 📫 How to reach me: send me a message on LinkedIn
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/chris-van-loon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chris-van-loon" height="30" width="40" /></a>
