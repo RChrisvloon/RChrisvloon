@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.chrisvanloon.nl/](https://www.chrisvanloon.nl/)
 
-- 📫 How to reach me **rchrisvanloon@gmail.com**
+- 📫 How to reach me: send me a message on LinkedIn
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
