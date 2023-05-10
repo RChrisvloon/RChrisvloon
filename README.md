@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">A Front- and backend developer!</h3>
+<h3 align="center">A Frontend developer!</h3>
 
 - 🔭 I’m currently working on [my portfolio site](https://github.com/RChrisvloon/Portfolio)
 
