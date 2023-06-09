@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A Frontend developer!</h3>
 
-- 🔭 I’m currently working on [my portfolio site](https://github.com/RChrisvloon/Portfolio)
+- 🔭 I’m currently working on my demo Nike webshop.
 
 - 💻 I’m currently programming with **React**
 
