@@ -5,6 +5,8 @@
 
 - 💻 I’m currently programming with **React**
 
+- 👨🏻‍🎓 Following a course on **Next.JS** through Udemy
+
 - 👨‍💻 All of my projects are available at [https://www.chrisvanloon.nl/](https://www.chrisvanloon.nl/)
 
 <h3 align="left">Connect with me:</h3>
